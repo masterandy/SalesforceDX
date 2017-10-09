@@ -1,0 +1,122 @@
+[
+    [
+        "/Users/dpaouchi/Desktop/COVEA/salesforce_ant_41.0/sample/salesforceDX/geolocation/force-app",
+        {
+            "state": "n",
+            "sourcePath": "/Users/dpaouchi/Desktop/COVEA/salesforce_ant_41.0/sample/salesforceDX/geolocation/force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1507549887000,
+            "changeTime": 1507549887000,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/dpaouchi/Desktop/COVEA/salesforce_ant_41.0/sample/salesforceDX/geolocation/force-app/main",
+        {
+            "state": "n",
+            "sourcePath": "/Users/dpaouchi/Desktop/COVEA/salesforce_ant_41.0/sample/salesforceDX/geolocation/force-app/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1507549887000,
+            "changeTime": 1507549887000,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dpaouchi/Desktop/COVEA/salesforce_ant_41.0/sample/salesforceDX/geolocation/force-app/main/default",
+        {
+            "state": "n",
+            "sourcePath": "/Users/dpaouchi/Desktop/COVEA/salesforce_ant_41.0/sample/salesforceDX/geolocation/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 170,
+            "modifiedTime": 1507560507000,
+            "changeTime": 1507560507000,
+            "contentHash": "461eeafc376496d626321d1533a6b2401f757253",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dpaouchi/Desktop/COVEA/salesforce_ant_41.0/sample/salesforceDX/geolocation/force-app/main/default/aura",
+        {
+            "state": "n",
+            "sourcePath": "/Users/dpaouchi/Desktop/COVEA/salesforce_ant_41.0/sample/salesforceDX/geolocation/force-app/main/default/aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 68,
+            "modifiedTime": 1507549887000,
+            "changeTime": 1507549887000,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dpaouchi/Desktop/COVEA/salesforce_ant_41.0/sample/salesforceDX/geolocation/force-app/main/default/classes",
+        {
+            "state": "n",
+            "sourcePath": "/Users/dpaouchi/Desktop/COVEA/salesforce_ant_41.0/sample/salesforceDX/geolocation/force-app/main/default/classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 170,
+            "modifiedTime": 1507560512000,
+            "changeTime": 1507560512000,
+            "contentHash": "251ffdd247d90a6fc62d6094227bc502b37d0a24",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dpaouchi/Desktop/COVEA/salesforce_ant_41.0/sample/salesforceDX/geolocation/force-app/main/default/classes/AccountController.cls",
+        {
+            "state": "n",
+            "sourcePath": "/Users/dpaouchi/Desktop/COVEA/salesforce_ant_41.0/sample/salesforceDX/geolocation/force-app/main/default/classes/AccountController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 292,
+            "modifiedTime": 1507560554000,
+            "changeTime": 1507560554000,
+            "contentHash": "1b3bdaf5018ea4a53307d7f7f75627a10855eeb7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dpaouchi/Desktop/COVEA/salesforce_ant_41.0/sample/salesforceDX/geolocation/force-app/main/default/classes/AccountController.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/dpaouchi/Desktop/COVEA/salesforce_ant_41.0/sample/salesforceDX/geolocation/force-app/main/default/classes/AccountController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 195,
+            "modifiedTime": 1507560454000,
+            "changeTime": 1507560454000,
+            "contentHash": "d388a388b0a95b0227831a265ba9b57f8672d004",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dpaouchi/Desktop/COVEA/salesforce_ant_41.0/sample/salesforceDX/geolocation",
+        {
+            "state": "n",
+            "sourcePath": "/Users/dpaouchi/Desktop/COVEA/salesforce_ant_41.0/sample/salesforceDX/geolocation",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 306,
+            "modifiedTime": 1507560174000,
+            "changeTime": 1507560174000,
+            "contentHash": "4e7c1dce819cac4f989b59112851b4cd18059c1a",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
